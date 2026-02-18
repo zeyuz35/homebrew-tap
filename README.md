@@ -1,4 +1,4 @@
-# mosek
+# homebrew-mosek
 
 ## How do I install these formulae?
 
