@@ -31,7 +31,7 @@ Further integration with other programming languages will require other packages
 
 Python: 
 ```python
-# copt - requries Python 3.13
+# copt - requires Python 3.13
 uv pip install coptpy
 # mosek
 uv pip install mosek
