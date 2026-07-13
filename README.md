@@ -1,9 +1,3 @@
----
-format:
-  html:
-    embed-resources: true
----
-
 # Homebrew Taps
 
 Collection of various formulas.
